@@ -5,11 +5,7 @@
 "zhou":
   - firstname: ["Fengyi", "F.", "F"]
     url: https://www.uu.se/en/contact-and-organisation/staff?query=N1-83 
-
-"suo":
-  - firstname: ["Yan", "Y.", "Y"]
-    url: https://www.uu.se/en/contact-and-organisation/staff?query=N1-83 
-
+    underline: true
 
 "rosen":
   - firstname: ["Nathan", "N."]
