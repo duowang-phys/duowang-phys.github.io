@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "Macao Polytechnic University",
+          description: "Recent courses taught at Macao Polytechnic University",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
