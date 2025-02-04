@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Macao Polytechnic University
+description: Recent courses taught at Macao Polytechnic University
 nav: true
 nav_order: 6
 ---
