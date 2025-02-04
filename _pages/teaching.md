@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: Macao Polytechnic University
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 - Spring 2025&nbsp;&nbsp;&nbsp;&nbsp;           MATH1113 *Discrete Mathematics*&nbsp;&nbsp;&nbsp;&nbsp; 45hours
