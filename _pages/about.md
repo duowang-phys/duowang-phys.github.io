@@ -6,7 +6,7 @@ subtitle: <a href='#'>Materials Theory Group</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: m42-20220314-2.JPEG
   image_circular: false # crops the image to make it circular
   more_info: >
 
