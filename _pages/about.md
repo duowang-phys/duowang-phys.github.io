@@ -26,7 +26,7 @@ latest_posts:
 
 
 **Welcome to the webpage of our research group!**
-We are a theory and computational group within the Faculty of Applied Sciences at Macao Polytechnic University, Macao SAR. Our research currently focuses mainly on ...
+We are a Quantum Materials Theory and Computational Group within the Faculty of Applied Sciences at Macao Polytechnic University, Macao SAR. Our research currently focuses mainly on magnetic and magnetically related properties in strongly correlated systems.
 
 Using the links above you can find out more about what we do, who we are, and where to find us. If you have any further questions please contact us at <duo.wang@mpu.edu.mo>.
 
