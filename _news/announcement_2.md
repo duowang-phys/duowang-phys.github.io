@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Yan Suo, Fengyi Zhou, and our collaborators’ paper,*Achieving Negative Thermal Expansion Over an Extended Temperature Range in Rare Earth-Modified PbTiO₃-Based Perovskites**, has been accepted for publication in *Rare Metals*, a Springer journal.
+Yan Suo, Fengyi Zhou, and our collaborators’ paper, **Achieving Negative Thermal Expansion Over an Extended Temperature Range in Rare Earth-Modified PbTiO₃-Based Perovskites**, has been accepted by *Rare Metals*, a journal under the publisher Springer.
