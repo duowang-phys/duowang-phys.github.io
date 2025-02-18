@@ -94,7 +94,10 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{
+    },{id: "news-hi-there-we-are-starting-our-group-website",
+          title: 'Hi there!  We are starting our group website!',
+          description: "",
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
