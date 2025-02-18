@@ -195,7 +195,6 @@ exclude:
   - _pages/repositories.md
   - _projects/*
   - _posts/*
-  - _news/announcement_*
   - _pages/blog.md
 keep_files:
   - CNAME
