@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='#'>Materials Theory Group</a>
+subtitle: <a href='#'>Materials Theory</a>
 
 profile:
   align: right
