@@ -30,5 +30,3 @@ We are a Quantum Materials Theory and Computational Group within the Faculty of 
 
 Using the links above you can find out more about what we do, who we are, and where to find us. If you have any further questions please contact us at <duo.wang@mpu.edu.mo>.
 
-> test
-> test
