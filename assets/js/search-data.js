@@ -105,8 +105,8 @@ ninja.data = [{
           section: "News",},{id: "news-yan-suo-fengyi-zhou-and-our-collaborators-paper-titled-achieving-negative-thermal-expansion-over-an-extended-temperature-range-in-rare-earth-modified-pbtio-3-based-perovskites-has-been-accepted-for-publication-in-the-springer-journal-rare-metals",
           title: 'Yan Suo, Fengyi Zhou, and our collaborators’ paper, titled Achieving Negative Thermal Expansion...',
           description: "",
-          section: "News",},{id: "news-opening-for-two-ph-d-positions",
-          title: 'Opening for Two Ph.D. Positions',
+          section: "News",},{id: "news-recruiting-two-ph-d-students",
+          title: 'Recruiting Two Ph.D. Students',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
