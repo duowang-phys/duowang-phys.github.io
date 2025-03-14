@@ -429,18 +429,18 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-hi-there-we-are-starting-our-group-website",
+          title: 'Hi there!  We are starting our group website!',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-yan-suo-fengyi-zhou-and-our-collaborators-paper-titled-achieving-negative-thermal-expansion-over-an-extended-temperature-range-in-rare-earth-modified-pbtio-3-based-perovskites-has-been-accepted-for-publication-in-the-springer-journal-rare-metals",
+          title: 'Yan Suo, Fengyi Zhou, and our collaborators’ paper, titled Achieving Negative Thermal Expansion...',
+          description: "",
+          section: "News",},{id: "news-opening-for-two-ph-d-positions",
+          title: 'Opening for Two Ph.D. Positions',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "projects-project-1",
+              window.location.href = "/news/announcement_3/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
