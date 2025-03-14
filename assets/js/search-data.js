@@ -511,35 +511,35 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%64%75%6F.%77%61%6E%67@%6D%70%75.%65%64%75.%6D%6F", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-orcid',
+        title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://orcid.org/0000-0002-7070-034X", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=VU3QB7kAAAAJ", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-work',
+        title: 'Work',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://www.mpu.edu.mo/en/index.php", "_blank");
+        },
+      },{
+        id: 'social-flickr',
+        title: 'Flickr',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.flickr.com/143123750@N08", "_blank");
         },
       },{
       id: 'light-theme',
