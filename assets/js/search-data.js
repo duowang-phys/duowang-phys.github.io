@@ -110,7 +110,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
-            },},{
+            },},{id: "news-feng-chen-has-successfully-passed-her-ph-d-candidature-confirmatory-examination-well-done",
+          title: 'Feng Chen has successfully passed her Ph.D. candidature confirmatory examination. Well done!',
+          description: "",
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
