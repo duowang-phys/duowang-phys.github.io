@@ -113,6 +113,9 @@ ninja.data = [{
             },},{id: "news-feng-chen-has-successfully-passed-her-ph-d-candidature-confirmatory-examination-well-done",
           title: 'Feng Chen has successfully passed her Ph.D. candidature confirmatory examination. Well done!',
           description: "",
+          section: "News",},{id: "news-fengyi-zhou-yan-suo-and-our-collaborators-paper-titled-discovery-of-an-ultra-stable-antiferromagnetic-two-dimensional-crf-3-phase-with-anisotropic-quasi-1d-mechanical-electronic-and-thermal-properties-has-been-accepted-for-publication-in-the-aps-journal-physical-review-b",
+          title: 'Fengyi Zhou, Yan Suo, and our collaborators’ paper, titled Discovery of an Ultra-Stable...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
