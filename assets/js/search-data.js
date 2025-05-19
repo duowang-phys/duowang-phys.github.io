@@ -116,6 +116,9 @@ ninja.data = [{
           section: "News",},{id: "news-fengyi-zhou-yan-suo-and-our-collaborators-paper-titled-discovery-of-an-ultra-stable-antiferromagnetic-two-dimensional-crf-3-phase-with-anisotropic-quasi-1d-mechanical-electronic-and-thermal-properties-has-been-accepted-for-publication-in-the-aps-journal-physical-review-b",
           title: 'Fengyi Zhou, Yan Suo, and our collaborators’ paper, titled Discovery of an Ultra-Stable...',
           description: "",
+          section: "News",},{id: "news-fengyi-zhou-and-our-collaborators-paper-titled-realizing-negative-thermal-expansion-over-an-extended-temperature-range-in-pbtio-3-based-perovskites-has-been-accepted-for-publication-in-the-journal-of-advanced-ceramics",
+          title: 'Fengyi Zhou and our collaborators’ paper, titled Realizing Negative Thermal Expansion over an...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
