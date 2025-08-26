@@ -119,6 +119,9 @@ ninja.data = [{
           section: "News",},{id: "news-fengyi-zhou-and-our-collaborators-paper-titled-realizing-negative-thermal-expansion-over-an-extended-temperature-range-in-pbtio-3-based-perovskites-has-been-accepted-for-publication-in-journal-of-advanced-ceramics",
           title: 'Fengyi Zhou and our collaborators’ paper, titled Realizing Negative Thermal Expansion over an...',
           description: "",
+          section: "News",},{id: "news-fengyi-zhou-and-our-collaborators-paper-titled-emergence-of-insulating-ferro-and-ferrimagnetism-with-enhanced-optical-properties-in-double-double-perovskite-oxides-has-been-accepted-for-publication-in-the-aps-journal-physical-review-b",
+          title: 'Fengyi Zhou and our collaborators’ paper, titled Emergence of insulating ferro- and ferrimagnetism...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
