@@ -7,6 +7,11 @@ nav: true
 nav_order: 7
 ---
 
+
+- Fall 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MATH1111 *Linear Algebra* (also course responsible)&nbsp;&nbsp;&nbsp;&nbsp;  45hours
+
+- Fall 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; COMP408 *Selected Topics III - Linear Algebra* (also course responsible)&nbsp;&nbsp;&nbsp;&nbsp;  45hours
+
 - Spring 2025&nbsp;&nbsp;&nbsp;&nbsp;           MATH1113 *Discrete Mathematics*&nbsp;&nbsp;&nbsp;&nbsp; 45hours
 
 - Fall 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MATH1111 *Linear Algebra* (also course responsible)&nbsp;&nbsp;&nbsp;&nbsp;  45hours
