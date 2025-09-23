@@ -122,6 +122,9 @@ ninja.data = [{
           section: "News",},{id: "news-fengyi-zhou-and-our-collaborators-paper-titled-emergence-of-insulating-ferro-and-ferrimagnetism-with-enhanced-optical-properties-in-double-double-perovskite-oxides-has-been-accepted-for-publication-in-the-aps-journal-physical-review-b",
           title: 'Fengyi Zhou and our collaborators’ paper, titled Emergence of insulating ferro- and ferrimagnetism...',
           description: "",
+          section: "News",},{id: "news-fengyi-zhou-and-our-collaborators-paper-titled-simultaneously-achieving-large-ferroelectric-polarization-and-high-tc-in-sol-gel-deposited-pbtio-3-based-perovskite-thin-films-has-been-accepted-for-publication-in-the-rsc-journal-physical-chemistry-chemical-physics",
+          title: 'Fengyi Zhou and our collaborators’ paper, titled Simultaneously achieving large ferroelectric polarization and...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
