@@ -6,7 +6,7 @@ related_posts: false
 ---
 
 Fengyi Zhou and our collaborators’ paper, titled 
-**Emergence of insulating ferro- and ferrimagnetism with enhanced optical properties in double-double perovskite oxides**, 
+**Emergence of Insulating Ferro- and Ferrimagnetism with Enhanced Optical Properties in Double-Double Perovskite Oxides**, 
 has been accepted for publication in the 
 APS 
 journal 

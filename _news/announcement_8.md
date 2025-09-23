@@ -6,7 +6,7 @@ related_posts: false
 ---
 
 Fengyi Zhou and our collaborators’ paper, titled
-**Simultaneously achieving large ferroelectric polarization and high-Tc in sol-gel deposited PbTiO_3-based perovskite thin films**
+**Simultaneously Achieving Large Ferroelectric Polarization and High-Tc in Sol-Gell Deposited PbTiO$_3$-based Perovskite Thin Films**
 has been accepted for publication in the 
 RSC 
 journal 
