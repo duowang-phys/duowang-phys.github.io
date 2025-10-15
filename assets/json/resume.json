@@ -62,27 +62,43 @@
   "funding": [
     {
       "name": "Theoretical Study of Magnetically Related Properties in Strongly Correlated Systems Based on Density Functional Theory, Dynamical Mean-Field Theory, and Ultrafast Spin Dynamics",
-      "summary": "The Science and Technology Development Fund (FDCT), Macao.",
+      "summary": "MOP 1,168,500 The Science and Technology Development Fund (FDCT), Macao.",
       "startDate": "2025-07-28",
       "endDate": "2028-07-27",
       "url": "https://example.com"
     },
     {
       "name": "Research on New Quantum Material Magnetic Effects Based on First-principles Calculations and Deep Learning",
-      "summary": "The Science and Technology Development Fund (FDCT), Macao.",
+      "summary": "MOP 455,000 The Science and Technology Development Fund (FDCT), Macao.",
       "startDate": "2024-01-09",
       "endDate": "2026-01-11",
       "url": "https://example.com"
     },
     {
       "name": "Ground-state Magnetic Properties of Novel Quantum Materials and Biomacromolecules - A First-principles Study",
-      "summary": "Macao Polytechnic University, Macao.",
+      "summary": "MOP 498,000 Macao Polytechnic University, Macao.",
       "startDate": "2023-03",
       "endDate": "2026-02",
       "url": "https://example.com"
     }
   ],
   "conferences": [
+{
+      "conference": "2025 European Materials Research Society (E-MRS) Fall Meeting",
+      "location": "Warsaw, Poland",
+      "url": "https://yga2024.scimeeting.cn",
+      "preType": "Invited talk",
+      "startDate": "2025-09",
+      "endDate": ""
+    },
+{
+      "conference": "2025 CEMES-CNRS workshop, Magnetic Interactions and Topological Spin Textures",
+      "location": "Toulouse, France",
+      "url": "https://yga2024.scimeeting.cn",
+      "preType": "Oral presentation",
+      "startDate": "2025-07",
+      "endDate": ""
+    },
     {
       "conference": "2024 Joint Annual Conference of Physical Societies in Guangdong-Hong Kong-Macao Greater Bay Area",
       "location": "Macao SAR",
