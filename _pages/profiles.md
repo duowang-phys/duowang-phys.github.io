@@ -44,7 +44,22 @@ profiles:
   - align: right
     image: student_JinZou.jpg
     content: people_jinzou.md
-
+    image_circular: false # crops the image to make it circular
+    more_info: >
+#      <p>555 your office number</p>
+#      <p>123 your address street</p>
+#      <p>Your City, State 12345</p>
+  - align: left
+    image: student_DengningSun.jpg
+    content: people_dengningsun.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+#      <p>555 your office number</p>
+#      <p>123 your address street</p>
+#      <p>Your City, State 12345</p>
+  - align: right
+    image: student_JunrunQiu.jpg
+    content: people_junrunqiu.md
     image_circular: false # crops the image to make it circular
     more_info: >
 #      <p>555 your office number</p>
