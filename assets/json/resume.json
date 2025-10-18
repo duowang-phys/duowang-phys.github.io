@@ -65,7 +65,8 @@
       "summary": "MOP 1,168,500 The Science and Technology Development Fund (FDCT), Macao.",
       "startDate": "2025-07-28",
       "endDate": "2028-07-27",
-      "url": "https://example.com"
+      "url": "https://example.com",
+      "amount": "MOP 1,168,500"
     },
     {
       "name": "Research on New Quantum Material Magnetic Effects Based on First-principles Calculations and Deep Learning",
