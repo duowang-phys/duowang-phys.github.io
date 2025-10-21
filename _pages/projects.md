@@ -26,7 +26,7 @@ profiles:
 #      <p>123 your address street</p>
 #      <p>Your City, State 12345</p>
   - align: right
-    image: research_3.jpg
+    image: research_3-2.pdf
     content: research3.md
     image_circular: false # crops the image to make it circular
     more_info: >

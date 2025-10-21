@@ -8,6 +8,7 @@
 
 
 **selected publications**
+- arXiv:2510.13207
 
 
 **other references**
