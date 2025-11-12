@@ -211,6 +211,14 @@
 	"Journal of Inorganic and Organometallic Polymers and Materials",
         "etc."
       ]
+    },
+    {
+	    "name": "Member",
+	    "icon": "fa-solid fa-tag",
+	    "keywords": [
+	    "APS",
+	    "IEEE"
+	    ]
     }
   ]
 }
