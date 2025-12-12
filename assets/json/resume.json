@@ -87,6 +87,14 @@
   ],
   "conferences": [
 {
+      "conference": "Magnetic Skyrmion Workshop",
+      "location": "Shenzhen, China",
+      "preType": "Invited talk",
+      "startDate": "2025-11",
+      "endDate": ""
+    },
+
+{
       "conference": "The 3rd World Materials Conference (WMC), the 9th World Materials Summit (WMS) & International Union of Materials Research Societies International Conference in Asia (IUMRS-ICA) 2025",
       "location": "Guilin, China",
       "url": "https://wmc2025.scimeeting.cn/en/web/index/27168",
