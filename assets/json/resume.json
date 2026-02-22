@@ -60,6 +60,15 @@
     }
   ],
   "funding": [
+{
+      "name": "Theoretical Insights on the Regulation of Magnetic Properties in Strongly Correlated Systems",
+      "summary": "Macao Polytechnic University, Macao",
+      "startDate": "2026-01-12",
+      "endDate": "2028-12-31",
+      "url": "https://example.com",
+      "amount": "MOP 495,000"
+    },
+
     {
       "name": "Theoretical Study of Magnetically Related Properties in Strongly Correlated Systems Based on Density Functional Theory, Dynamical Mean-Field Theory, and Ultrafast Spin Dynamics",
       "summary": "The Science and Technology Development Fund (FDCT), Macao.",
