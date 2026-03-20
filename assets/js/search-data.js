@@ -125,7 +125,12 @@ ninja.data = [{
           section: "News",},{id: "news-fengyi-zhou-and-our-collaborators-paper-titled-simultaneously-achieving-large-ferroelectric-polarization-and-high-tc-in-sol-gell-deposited-pbtio-3-based-perovskite-thin-films-has-been-accepted-for-publication-in-the-rsc-journal-physical-chemistry-chemical-physics",
           title: 'Fengyi Zhou and our collaborators’ paper, titled Simultaneously Achieving Large Ferroelectric Polarization and...',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "news-2025-e-mrs-fall-meeting-and-old-friends",
+          title: '2025 E-MRS Fall Meeting and Old Friends',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/E-MRS2025/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
