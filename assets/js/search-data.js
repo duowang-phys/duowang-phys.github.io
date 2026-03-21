@@ -119,22 +119,22 @@ ninja.data = [{
           section: "News",},{id: "news-fengyi-zhou-and-our-collaborators-paper-titled-realizing-negative-thermal-expansion-over-an-extended-temperature-range-in-pbtio-3-based-perovskites-has-been-accepted-for-publication-in-journal-of-advanced-ceramics",
           title: 'Fengyi Zhou and our collaborators’ paper, titled Realizing Negative Thermal Expansion over an...',
           description: "",
-          section: "News",},{id: "news-participation-scientific-contributions-at-the-2025-cemes-cnrs-workshop-magnetic-interactions-and-topological-spin-textures",
-          title: 'Participation Scientific Contributions at the 2025 CEMES-CNRS workshop, Magnetic Interactions and Topological Spin...',
+          section: "News",},{id: "news-2025-cemes-cnrs-workshop-magnetic-interactions-and-topological-spin-textures",
+          title: '2025 CEMES-CNRS workshop, Magnetic Interactions and Topological Spin Textures',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/2025_workshop_CEMES-CNRS_workshop/";
+              window.location.href = "/news/2025_CEMES-CNRS_workshop/";
             },},{id: "news-fengyi-zhou-and-our-collaborators-paper-titled-emergence-of-insulating-ferro-and-ferrimagnetism-with-enhanced-optical-properties-in-double-double-perovskite-oxides-has-been-accepted-for-publication-in-the-aps-journal-physical-review-b",
           title: 'Fengyi Zhou and our collaborators’ paper, titled Emergence of Insulating Ferro- and Ferrimagnetism...',
           description: "",
           section: "News",},{id: "news-fengyi-zhou-and-our-collaborators-paper-titled-simultaneously-achieving-large-ferroelectric-polarization-and-high-tc-in-sol-gell-deposited-pbtio-3-based-perovskite-thin-films-has-been-accepted-for-publication-in-the-rsc-journal-physical-chemistry-chemical-physics",
           title: 'Fengyi Zhou and our collaborators’ paper, titled Simultaneously Achieving Large Ferroelectric Polarization and...',
           description: "",
-          section: "News",},{id: "news-participation-scientific-contributions-at-the-2025-e-mrs-fall-meeting",
-          title: 'Participation Scientific Contributions at the 2025 E-MRS Fall Meeting',
+          section: "News",},{id: "news-2025-e-mrs-fall-meeting",
+          title: '2025 E-MRS Fall Meeting',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/E-MRS2025/";
+              window.location.href = "/news/2025_E-MRS/";
             },},{
         id: 'social-email',
         title: 'email',
