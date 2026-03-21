@@ -135,6 +135,21 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025_E-MRS/";
+            },},{id: "news-3rd-wmc-9th-wms-amp-iumrs-ica-2025",
+          title: '3rd WMC, 9th WMS &amp;amp; IUMRS-ICA 2025',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025_C-MRS/";
+            },},{id: "news-group-outing",
+          title: 'Group Outing!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025_Group-Outing/";
+            },},{id: "news-magnetic-skyrmion-workshop",
+          title: 'Magnetic Skyrmion Workshop',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025_Magnetic-Skyrmion-Workshop/";
             },},{
         id: 'social-email',
         title: 'email',
