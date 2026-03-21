@@ -17,7 +17,13 @@ He also had a chance to catch up with Prof. Biplab Sanyal (his PhD supervisor) o
      class="rounded z-depth-1"
      height="300"
      width="auto" 
-     caption:"Group photo at CEMES-CNRS Workshop 2025. From left to right: Biplab, Duo, and Soumyajyoti" %}
+     caption="From left to right: Biplab, Duo, and Soumyajyoti" %}
+  {% include figure.liquid path="assets/img/CEMES-CRNS_workshop_2025_GroupPhoto.jpg"
+     class="rounded z-depth-1"
+     height="350"
+     width="auto" 
+     caption="Group photo at CEMES-CNRS Workshop 2025" %}
+
 </div>
 
 
