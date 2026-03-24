@@ -7,7 +7,7 @@ related_posts: false
 ---
 
 
-<u>From June 25 to June 27, 2025</u>, Duo Wang attended **the workshop Magnetic Interactions and Topological Spin Textures - in 2D van der Waals magnets and heterostructures held at CEMES-CNRS in Toulouse, France**.  He delivered a talk entitled *Emergence of polar skyrmions in 2D Janus CrInX3 (X=Se, Te) Magnets*. 
+From <u>June 25</u> to <u>June 27</u>, 2025, Duo Wang attended **the workshop Magnetic Interactions and Topological Spin Textures - in 2D van der Waals magnets and heterostructures** held at **CEMES-CNRS in Toulouse, France**.  He delivered a talk entitled *Emergence of polar skyrmions in 2D Janus CrInX3 (X=Se, Te) Magnets*. 
 
 He also had a chance to catch up with Prof. Biplab Sanyal (Uppsala University, Sweden), his PhD supervisor, as well as Dr. Soumyajyoti Haldar (Kiel University, Germany), a former member of the same research group.
 
