@@ -135,8 +135,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025_E-MRS/";
-            },},{id: "news-3rd-wmc-9th-wms-amp-iumrs-ica2025",
-          title: '3rd WMC, 9th WMS &amp;amp; IUMRS-ICA2025',
+            },},{id: "news-3rd-wmc-9th-wms-amp-iumrs-ica-2025",
+          title: '3rd WMC, 9th WMS &amp;amp; IUMRS-ICA 2025',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025_C-MRS/";
