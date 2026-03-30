@@ -7,6 +7,9 @@ nav: true
 nav_order: 7
 ---
 
+- Spring 2026&nbsp;&nbsp;&nbsp;&nbsp;           MATH1113 *Discrete Mathematics*&nbsp;&nbsp;&nbsp;&nbsp; 45hours
+
+- Fall 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Physics* (also course responsible)&nbsp;&nbsp;&nbsp;&nbsp;  36hours
 
 - Fall 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MATH1111 *Linear Algebra* (also course responsible)&nbsp;&nbsp;&nbsp;&nbsp;  45hours
 

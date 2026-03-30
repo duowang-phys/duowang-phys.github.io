@@ -38,8 +38,8 @@ nav_order: 8
 
 #### **Visit us / Group leader**
 
-**Office**: Wui Chi building, N46B
+**Office**: Academic building, E710
 
 **Email**: <duo.wang@mpu.edu.mo>
 
-**Phone**(office): +853 8599 6884
+**Phone**(office): +853 8599 3877
